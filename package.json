@@ -1,0 +1,22 @@
+{
+  "name": "noelfania.oci",
+  "version": "0.1.0",
+  "description": "\"# noelfania.oci\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelfania/noelfania.oci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noelfania/noelfania.oci/issues"
+  },
+  "homepage": "https://github.com/noelfania/noelfania.oci#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
