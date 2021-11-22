@@ -1,6 +1,9 @@
 ## noelfania.oci
 
-
+`2021/11/22:` 개발환경선택
+WEB Server : NodeJS
+DB : [Cassandra](https://cassandra.apache.org/doc/latest/cassandra/getting_started/index.html)
+ORM : [Datastax](https://github.com/datastax/nodejs-driver)
 
 `2021/11/21:` 로컬서버리포 <> 깃허브서버리포 <> 젠킨스CI/CD <> 오라클클라우스
 

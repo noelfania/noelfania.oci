@@ -1,9 +1,13 @@
 const express = require('express')
 const app = express()
+
 const port = 9999
+app.use(express.json()) 
 
 app.get('/', (req, res) => {
-  res.send('Hello NOSEUMDOCHI!')
+  
+  console.log(req.body)
+  res.json(req.body)
 })
 
 app.listen(port, () => {
