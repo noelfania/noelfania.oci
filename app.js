@@ -6,8 +6,8 @@ app.use(express.json())
 
 app.get('/', (req, res) => {
   
-  console.log(req.body)
-  res.json(req.body)
+  //console.log(req.body)
+  res.json('undefined')
 })
 
 app.listen(port, () => {
